@@ -1,7 +1,12 @@
-*This text will be italic*
-_This will also be italic_
+### *“ The hard days are what make you stronger.”*
 
-**This text will be bold**
-__This will also be bold__
+&nbsp; &nbsp; &nbsp; &nbsp; _&nbsp; &nbsp;&nbsp; &nbsp; -akhilbaiju_
 
-_You **can** combine them_
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+*18 MAR 2020* \
+__8:00 PM__
