@@ -1,5 +1,5 @@
-1. One
-2. Chocolate
-3. test
-   1. I
-   2. I
+1. [Youtube Channel](https://www.youtube.com/channel/UCe5RaLkqRimYwdWss4FpH2w)
+2. [Facebook](https://www.facebook.com/naurin.naufal)
+3. [Twitter](https://www.facebook.com/naurin.naufal)
+   1. [Telegram](https://t.me/evedecide)
+   2. [Instagram](https://www.instagram.com/__blue_._rose__/)
