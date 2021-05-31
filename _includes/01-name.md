@@ -1,5 +1,3 @@
-Naurin N
-
-# This is an <h1> header, which is the largest
-## This is an <h2> header
-###### This is an <h6> header, which is the smallest
+#  Hey there! 👋😜
+##  This is Naurin N
+######  1 June 2021
