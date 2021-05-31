@@ -1,6 +1,6 @@
 ### *“ The hard days are what make you stronger.”*
 
-&nbsp; &nbsp; &nbsp; &nbsp; _&nbsp; &nbsp;&nbsp; &nbsp; -akhilbaiju_
+&nbsp; &nbsp; &nbsp; &nbsp; _&nbsp; &nbsp;&nbsp; &nbsp; -naurin.naufal_
 
 
 &nbsp;
